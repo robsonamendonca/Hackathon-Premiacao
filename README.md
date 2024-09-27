@@ -1,16 +1,22 @@
-# Hackathon-Premiacao
-Repositório de badges e certificados do Hackathon Código Certo Coders para reconhecimento dos participantes
+# Premiação - Hackathon Código Certo Coders 🎉
 
-## Badges de Premiação - Hackathon Código Certo Coders 🎉
+Parabéns aos vencedores do nosso hackathon! Aqui estão os badges de reconhecimento para as equipes que mais se destacaram. Confira as páginas dedicadas para cada equipe e compartilhe seus badges nas redes sociais.
 
-Aqui estão os badges de reconhecimento dos vencedores do nosso hackathon. Use o link abaixo do seu badge e compartilhe em seu perfil no LinkedIn, GitHub, e outras redes sociais para mostrar seu destaque!
+## 🏅 Equipes Vencedoras
 
-### 🏅 1º Lugar: Greenline (Equipe 17)
-<img src="https://github.com/robsonamendonca/Hackathon-Premiacao/blob/main/1-lugar-badge.png" alt="1º Lugar" width="200" height="200"/>
+### 1º Lugar: Greenline (Equipe 17)
+- [Acesse a página da equipe Greenline](./greenline.md)
 
-### 🥈 2º Lugar: HortaTech (Equipe 15)
-<img src="https://github.com/robsonamendonca/Hackathon-Premiacao/blob/main/2-lugar-badge.png" alt="2º Lugar" width="200" height="200"/>
+### 2º Lugar: HortaTech (Equipe 15)
+- [Acesse a página da equipe HortaTech](./hortatech.md)
 
-### 🥉 3º Lugar: Guardians of the Code (Equipe 14)
-<img src="https://github.com/robsonamendonca/Hackathon-Premiacao/blob/main/3-lugar-badge.png" alt="3º Lugar" width="200" height="200"/>
+### 3º Lugar: Guardians of the Code (Equipe 14)
+- [Acesse a página da equipe Guardians of the Code](./guardians.md)
 
+---
+
+## Como Usar os Badges
+
+1. Acesse a página da sua equipe e faça o download do badge correspondente.
+2. Compartilhe o badge nas redes sociais como LinkedIn ou GitHub.
+3. Mostre seu resultado e conquistas no Hackathon Código Certo Coders!
